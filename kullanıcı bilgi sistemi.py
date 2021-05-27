@@ -1,0 +1,10 @@
+print("***KULLANICI BİLGİ SİSTEMİ***")
+kullanıcı_adı=input("LÜTFEN İSMİNİZİ GİRİN: ")
+kullanıcı_soyadı=input("LÜTFEN SOYİSMİNİZİ GİRİN: ")
+print("KULLANICI ADI: ",kullanıcı_adı)
+print("KULLANICI SOYADI: ", kullanıcı_soyadı)
+tuttuğu_takim=input("LÜTFEN TUTTUĞUNUZ TAKIMI GİRİN: ")
+numarası=input("LÜTFEN NUMARANIZI GİRİN: ")
+print("KULLANICININ TUTTUĞU TAKIM: ",tuttuğu_takim)
+print("KULLANICININ NUMARASI: ", numarası)
+
